@@ -1,0 +1,11 @@
+Restaurant "Ekonomija"-Trg J.F. Kennedyja 6 (Faculty of Economics and Business)-45.816088,16.011736
+Restaurant "Borongaj"-Borongajska bb (Borongaj Campus)-45.8134349,16.043595
+Restaurant "Medicina"-Salata 3b (School of Medicine)-45.818848,15.985107
+Restaurant "Veterina"-Heinzelova 55 (Faculty of Veterinary Medicine)-45.8062978,16.0073315
+Restaurant "Sumarstvo"-Svetosimunska 25 (Faculty of Forestry)-45.8263658,16.0307267
+Restaurant "FSB"-Ivana Lucica 5 (Faculty of Mechanical Engineering and Naval Architecture)-45.795417,15.9717796
+Restaurant "ALU"-Ilica 85c (Academy of Fine Arts)-45.812183,15.962603
+Restaurant "Tekstilni"-Prilaz baruna Filipovica 28a (Faculty of Textile Technology)-45.8122683,15.9364597
+SD "Stjepan Radic"-Jarunska 2-45.785138,15.94733
+SD "Cvjetno naselje"-Odranska 8-45.791602,15.961436
+SD "Lascina"-Lascinska cesta 32-45.821801,15.999674

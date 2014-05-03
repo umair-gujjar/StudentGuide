@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_blue">#3C8FDD</color>
+    <color name="app_blue_dark">#306183</color>
+    <color name="transparent">#FFFFFF</color>
+</resources>

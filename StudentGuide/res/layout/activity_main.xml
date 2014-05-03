@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/main_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content" 
+    	android:layout_weight="1" >
+    	
+        <RelativeLayout
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/border"  >
+		    <ImageView
+		        android:id="@+id/eat_icon"
+		        android:src="@drawable/ic_eat_activity"      
+		        android:layout_width="128dp"
+		        android:layout_height="128dp"       
+		        android:layout_centerInParent="true" 
+		        android:clickable="true" 
+		        android:onClick="gotoEat" />
+	    </RelativeLayout>
+	    
+        <RelativeLayout
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/border"  >
+		    <ImageView
+		        android:id="@+id/drink_icon"
+		        android:src="@drawable/ic_drink_activity"
+		        android:layout_width="128dp"
+		        android:layout_height="128dp"
+		        android:layout_centerInParent="true" 
+		        android:clickable="true" 
+		        android:onClick="gotoDrink" />
+	    </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_weight="1" >
+	    
+        <RelativeLayout
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/border"  >
+		    <ImageView
+		        android:id="@+id/map_icon"
+		        android:src="@drawable/ic_map_activity"
+		        android:layout_width="128dp"
+		        android:layout_height="128dp"
+		        android:layout_centerInParent="true" 
+		        android:clickable="true" 
+		        android:onClick="gotoMap" />
+	    </RelativeLayout>
+	    <RelativeLayout
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/border"  >
+		    <ImageView
+		        android:id="@+id/bus_icon"
+		        android:src="@drawable/ic_bus_times_activity"
+		        android:clickable="true" 
+		        android:layout_width="128dp"
+		        android:layout_height="128dp"
+		        android:layout_centerInParent="true" 
+		        android:onClick="gotoTransport" />
+	    </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

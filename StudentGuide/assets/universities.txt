@@ -1,0 +1,35 @@
+Faculty of Agriculture (AGR)-Svetosimunska 25-45.8263658,16.0307267
+Faculty of Architecture (AF)-Fra Andrije Kacica Miocica 26-45.808672,15.963445
+Faculty of Chemical Engineering and Technology (FKIT)-Marulicev trg 19-45.806965,15.970098
+Faculty of Civil Engineering-Fra Andrije Kacica Miocica 26-45.8086703,15.9634146
+Faculty of Economics and Business (EFZG)-Trg J.F. Kennedyja 6-45.816088,16.011736
+Faculty of Education and Rehabilitation (ERF)-Borongajska cesta 83f-45.8123384,16.0089444
+Faculty of Electrical Engineering and Computing (FER)-Unska 3-45.8008585,15.9711438
+Faculty of Food Technology and Biotechnology (PBF)-Pierottijeva 6-45.8070959,15.9640482
+Faculty of Forestry (SUMFAK)-Svetocimunska 25-45.8263658,16.0307267
+Faculty of Geodesy (GEOF)-Kaciceva 26-45.8086718,15.9634196
+Faculty of Graphic Arts (GRF)-Getaldiceva 2-45.8061502,16.0295021
+Faculty of Kinesiology (KIF)-Horvacanski zavoj 15-45.7848027,15.9438688
+Faculty of Law-Trg marcala Tita 14-45.809636,15.971139
+Faculty of Mechanical Engineering and Naval Architecture (FSB)-Ivana Lucica 5-45.795417,15.9717796
+Faculty of Mining, Geology and Petroleum Engineering (RGN)-Pierottijeva 6-45.8070965,15.9640467
+Faculty of Science (PMF)-Horvatovac 102a-45.8269269,15.9859139
+Faculty of Pharmacy and Biochemistry (FBF)-Ante Kovacica 1-45.8085238,15.9759594
+Faculty of Humanities and Social Sciences (FFZG)-Ivana Lucica 3-45.7966194,15.9713749
+Faculty of Political Science (FPZG)-Lepuciceva ul. 6-45.8078158,15.9929512
+Faculty of Textile Technology (TTF)-Prilaz baruna Filipovica 30-45.8122683,15.9364597
+Faculty of Theology (KBF)-Vlaska 38-45.81372,15.9823449
+Faculty of Transport and Traffic Engineering (FPZ)-Vukeliceva 4-45.8145078,16.0095065
+Faculty of Veterinary Medicine (VEF)-Heinzelova ulica 55-45.8062978,16.0073315
+School of Medicine (MEF)-Salata 3b-45.820154,15.984792
+School of Dental Medicine (SFZG)-Gunduliceva 5-45.8124866,15.9722761
+Faculty of Teacher Education (UFZG)-Savska cesta 77-45.7973367,15.9622987
+Academy of Dramatic Art (ADU)-Trg marsala Tita 5-45.8086029,15.970071
+Academy of Fine Arts (ALU)-Ilica 85-45.812344,15.962799
+Academy of Music (MUZA)-Gunduliceva 6-45.8123689,15.971848
+University center for Croatian studies-Borongajska 83d-45.809506,16.022425
+Polytechnic of Zagreb (Electrical engineering)-Konavoska 2-45.7999439,15.9284813
+Polytechnic of Zagreb (Civil engineering)-Avenija Veceslava Holjevca 15-45.7728664,15.9822593
+Polytechnic of Zagreb (Information Technologies)-Vrbik 8-45.795209,15.969402
+Polytechnic of Zagreb (Mechatornics)-Ivana Lucica 1-45.7977339,15.9711387
+Polytechnic of Zagreb (Computing)-Vrbik 8-45.795209,15.969402
